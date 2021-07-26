@@ -1,0 +1,8 @@
+.vs/
+*.csproj.user
+**/bin/
+**/obj/
+db_data/
+.idea/
+.git/ 
+Leifez/files
